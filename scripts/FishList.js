@@ -6,7 +6,7 @@ export const FishList = () => {
     const fishes = invokeTheRightFunctionHere(getFish)
 
     // Start building a string filled with HTML syntax
-    const htmlString = '<article class="fishList">'
+    const htmlString = '<article class="fishList"><h2>Martin/s Fishy Friends</h2>'
 
     // Create HTML representations of each fish here
     for (const fish of fishes) {
