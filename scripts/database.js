@@ -13,7 +13,7 @@ const database = {
             type: "Tuna",
             location: "New Zealand",
             color: "blue",
-            image: <img src="https://cdn-acgla.nitrocdn.com/bvIhcJyiWKFqlMsfAAXRLitDZjWdRlLX/assets/static/optimized/rev-5131b73/wp-content/uploads/2021/01/shutterstock_117425023-1-scaled.jpg"
+            image: "https://cdn-acgla.nitrocdn.com/bvIhcJyiWKFqlMsfAAXRLitDZjWdRlLX/assets/static/optimized/rev-5131b73/wp-content/uploads/2021/01/shutterstock_117425023-1-scaled.jpg"
             
         },
         {
@@ -23,7 +23,7 @@ const database = {
             type: "Goldfish", 
             location: "Your Mom's Basement",
             color: "gold",
-            image: <img src="https://www.mysis.com/hobbyist/wp-content/uploads/sites/2/2018/09/Goldfish-Image.jpg"
+            image: "https://www.mysis.com/hobbyist/wp-content/uploads/sites/2/2018/09/Goldfish-Image.jpg"
         },
         {
             name: "Cardi B",
@@ -32,7 +32,7 @@ const database = {
             type: "Shark",
             location: "Pacific Ocean",
             color: "green",
-            image: <img src="https://www.billboard.com/wp-content/uploads/2022/03/Sharki-B-Cardi-B-Baby-Sharks-Big-Show-Nickelodeon-2022-billboard-1548.jpg"
+            image: "https://www.billboard.com/wp-content/uploads/2022/03/Sharki-B-Cardi-B-Baby-Sharks-Big-Show-Nickelodeon-2022-billboard-1548.jpg"
         },
         {
             name: "Dracula",
@@ -41,7 +41,7 @@ const database = {
             type: "Salmon",
             location: "Gibson Co. Lake",
             color: "pink",
-            image: <img src="https://strikeandcatch.com/wp-content/uploads/2021/08/brendon-sager-min-2.jpg"
+            image: "https://strikeandcatch.com/wp-content/uploads/2021/08/brendon-sager-min-2.jpg"
         },
         {
             name: "Earl",
@@ -50,7 +50,7 @@ const database = {
             type: "Catfish",
             location: "Meow Meow Bay",
             color: "purple",
-            image: <img src="https://www.thepetsandlove.com/wp-content/uploads/2019/09/shutterstock_255289990-730x487.jpg"
+            image: "https://www.thepetsandlove.com/wp-content/uploads/2019/09/shutterstock_255289990-730x487.jpg"
         }
     ]
 }
